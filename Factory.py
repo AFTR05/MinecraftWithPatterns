@@ -7,6 +7,8 @@ from SingleUsuario import SingleUsuario
 from NPCs import MobFactoryCreator
 from ursina.prefabs.ursfx import ursfx
 
+#cambio de prueba de instalacion de git
+
 def pause_input(key):
     if key == 'tab':    # press tab to toggle edit/play mode
         editor_camera.enabled = not editor_camera.enabled
